@@ -2,3 +2,5 @@
 gitea/gitea:1.22
 gitea/act_runner:latest
 postgres:14
+rustdesk/rustdesk-server:latest
+jc21/nginx-proxy-manager:latest
