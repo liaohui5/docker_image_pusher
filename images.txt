@@ -6,3 +6,4 @@ rustdesk/rustdesk-server:latest
 jc21/nginx-proxy-manager:latest
 nginx:stable
 zoeyvid/npmplus
+postgres:15
