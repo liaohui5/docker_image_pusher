@@ -8,3 +8,5 @@ nginx:stable
 zoeyvid/npmplus
 postgres:15
 openvpn/openvpn-as
+ollama/ollama
+open-webui/open-webui:main
