@@ -10,3 +10,4 @@ postgres:15
 openvpn/openvpn-as
 ollama/ollama
 ghcr.io/open-webui/open-webui
+chishin/nginx-proxy-manager-zh:release
